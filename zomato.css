@@ -86,7 +86,7 @@ body{
 .dining_image{
     display: inline-block;
     padding:20px;
-    width:200px;
+    width:350px;
 
 }
 
@@ -94,17 +94,29 @@ body{
 
     display: inline-block;
     padding: 20px;
-    width:200px;
+    width:350px;
 }
 
 .night_club_image{
     display: inline-block;
     padding: 20px;
-    width:200px;
+    width: 350px;
 }
 .all_contents{
     display: inline-block;
 }
-.about_button{
-    display:block;
+
+.dining_button{
+    display: inline-block;
 }
+.night_club_button{
+    display:inline-block;
+}
+.order_favourite_button{
+    display:inline-block;
+}
+.about_zomato{
+    display:inline-block;
+ 
+}
+
